@@ -27,7 +27,7 @@ Security is a core component of this API, ensuring that user data is protected a
 * **Data Integrity:** Centralized error handling and request validation.
 
 ## 📂 Getting Started
-1. [cite_start]Clone the repository: `git clone https://github.com/Hamza-Abd-El-Baset/tasks-api`.
+1. Clone the repository: `git clone https://github.com/Hamza-Abd-El-Baset/tasks-api`.
 2. Configure your database settings in `application.properties`.
 3. Build the project: `./mvnw clean install`.
 4. Run the application: `./mvnw spring-boot:run`.
